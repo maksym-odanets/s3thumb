@@ -7,8 +7,8 @@
  */
 
 require_once ('source/CThumb.php');
-require_once ('amazon/S3.php');
-require_once ('amazon/CRC4Crypt.php');
+require_once ('source/S3.php');
+require_once ('source/CRC4Crypt.php');
 
 class CS3Thumb
 {
